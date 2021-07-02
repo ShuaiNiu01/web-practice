@@ -6,22 +6,21 @@ body {
   color:#fff;
 }
 
-h1{
+h1,h2,h3 {
   font-family: 'Montserrat';
+}
+
+h1{
   Size:3.5rem;
   line-height:1.5;
   color:white;
   font-weight:900;
 }
 h2{
-  font-family:'Montserrat';
   font-size:3rem;
   line-height:1.5;
 }
-h3{
-  font-family:'Montserrat';
 
-}
 p{
   color:#8f8f8f;
 }
